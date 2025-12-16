@@ -26,19 +26,7 @@ I actively use GitHub to experiment, learn, and share code, working on projects 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Porco&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 🌍 Links
 - 🌐 Website: https://www.cristianporco.it/
 - 💼 LinkedIn: https://www.linkedin.com/in/cristian-porco/
 - 🐙 GitHub: https://github.com/Cristian-Porco
-
----
-
-⭐ *Always learning. Always building.*
