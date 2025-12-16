@@ -4,25 +4,25 @@
 
 ---
 
-# 👋 Hi, I'm Cristian Porco
-### Software Developer | Cyber Security | Cloud & Web Technologies
+# 👋 Ciao, sono Cristian Porco
+### Sviluppatore Software | Cyber Security | Cloud & Web
 
-I am a **Software Developer** with a solid academic background in **Computer Science** and **Cyber Security**, currently working in the software industry in Italy.
+Sono uno **Sviluppatore Software** con una solida formazione accademica in **Informatica** e **Sicurezza Informatica**, attualmente attivo nel settore software in Italia.
 
-I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Cyber Security**, which provided me with a strong foundation in software engineering principles, system design, and secure application development.
+Ho conseguito una **Laurea Triennale in Informatica** e una **Laurea Magistrale in Cyber Security**, maturando competenze approfondite nello sviluppo software, nella progettazione dei sistemi e nella sicurezza delle applicazioni.
 
-I am currently working as a **Software Developer at Internet & Idee (Cosenza, Italy)**, where I contribute to real-world software projects, focusing on development, system integration, and production-ready solutions.  
-My work involves building **clean, scalable, and maintainable software**, with particular attention to **backend systems, web development, cloud technologies, and security-oriented solutions**.
+Attualmente lavoro come **Software Developer presso Internet & Idee (Cosenza)**, dove contribuisco a progetti software reali utilizzati in ambienti di produzione.  
+Mi occupo dello sviluppo e dell’integrazione di soluzioni **scalabili, manutenibili e orientate alla qualità**, con particolare attenzione a **backend, web, cloud e sicurezza applicativa**.
 
-I actively use GitHub to experiment, learn, and share code, working on projects that range from **JavaScript-based applications** to **C++ software**, always aiming to improve code quality and technical robustness.
+Utilizzo GitHub come spazio di crescita tecnica e sperimentazione, lavorando su progetti in **JavaScript**, **C++** e altre tecnologie, con l’obiettivo di migliorare costantemente la qualità del codice e le mie competenze professionali.
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** JavaScript, C++, Python
-- **Web:** HTML, CSS, REST APIs
-- **Backend & Tools:** Node.js, Git, Linux
-- **Interests:** Cyber Security, Cloud Computing, IoT, Software Architecture
+## 🛠️ Competenze Tecniche
+- **Linguaggi:** JavaScript, C++, Python
+- **Web:** HTML, CSS, REST API
+- **Backend & Tool:** Node.js, Git, Linux
+- **Interessi:** Cyber Security, Cloud Computing, IoT, Architettura Software
 
 ---
 
