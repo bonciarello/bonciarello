@@ -4,49 +4,25 @@
 
 ---
 
-# 👋 Ciao, sono Cristian Porco
-### Sviluppatore Software | Cyber Security | Cloud & Web
+# 👋 Hi, I'm Cristian Porco
+### Software Developer | Cyber Security | Cloud & Web Technologies
 
-Sono uno **Sviluppatore Software** con una solida formazione in **Informatica** e **Sicurezza Informatica**, attualmente impiegato nel settore software in Italia.
+I am a **Software Developer** with a solid academic background in **Computer Science** and **Cyber Security**, currently working in the software industry in Italy.
 
-Mi occupo dello sviluppo di **soluzioni pulite, scalabili e manutenibili**, con particolare attenzione a **backend, web, cloud e sicurezza applicativa**.
+I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Cyber Security**, which provided me with a strong foundation in software engineering principles, system design, and secure application development.
 
----
+I am currently working as a **Software Developer at Internet & Idee (Cosenza, Italy)**, where I contribute to real-world software projects, focusing on development, system integration, and production-ready solutions.  
+My work involves building **clean, scalable, and maintainable software**, with particular attention to **backend systems, web development, cloud technologies, and security-oriented solutions**.
 
-## 🎓 Formazione
-- **Laurea Magistrale in Cyber Security**
-- **Laurea Triennale in Informatica**
-
----
-
-## 💼 Esperienza Professionale
-**Software Developer**  
-*Internet & Idee – Cosenza*
-
-Lavoro su progetti software reali, contribuendo allo sviluppo e all’integrazione di soluzioni utilizzate in ambienti di produzione.
+I actively use GitHub to experiment, learn, and share code, working on projects that range from **JavaScript-based applications** to **C++ software**, always aiming to improve code quality and technical robustness.
 
 ---
 
-## 🛠️ Competenze Tecniche
-- **Linguaggi:** JavaScript, C++, Python
-- **Web:** HTML, CSS, REST API
-- **Backend & Tool:** Node.js, Git, Linux
-- **Interessi:** Cyber Security, Cloud Computing, IoT, Architettura Software
-
----
-
-## 🚀 Cosa Cerco
-- Opportunità come sviluppatore software
-- Collaborazioni Open Source
-- Progetti freelance o posizioni full-time
-- Contesti orientati a **qualità del codice e sicurezza**
-
----
-
-## 📊 Statistiche GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Porco&layout=compact" alt="Linguaggi più usati" />
-</p>
+## 🛠️ Technical Skills
+- **Languages:** JavaScript, C++, Python
+- **Web:** HTML, CSS, REST APIs
+- **Backend & Tools:** Node.js, Git, Linux
+- **Interests:** Cyber Security, Cloud Computing, IoT, Software Architecture
 
 ---
 
@@ -54,7 +30,3 @@ Lavoro su progetti software reali, contribuendo allo sviluppo e all’integrazio
 - 🌐 Sito: https://www.cristianporco.it/
 - 💼 LinkedIn: https://www.linkedin.com/in/cristian-porco/
 - 🐙 GitHub: https://github.com/Cristian-Porco
-
----
-
-⭐ *Sempre in crescita. Sempre in sviluppo.*
