@@ -9,21 +9,12 @@
 
 I am a **Software Developer** with a solid academic background in **Computer Science** and **Cyber Security**, currently working in the software industry in Italy.
 
-I focus on building **clean, scalable, and maintainable software**, with particular interest in **backend systems, web development, cloud technologies, and security-oriented solutions**.
+I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Cyber Security**, which provided me with a strong foundation in software engineering principles, system design, and secure application development.
 
----
+I am currently working as a **Software Developer at Internet & Idee (Cosenza, Italy)**, where I contribute to real-world software projects, focusing on development, system integration, and production-ready solutions.  
+My work involves building **clean, scalable, and maintainable software**, with particular attention to **backend systems, web development, cloud technologies, and security-oriented solutions**.
 
-## 🎓 Education
-- **M.Sc. in Cyber Security**
-- **B.Sc. in Computer Science**
-
----
-
-## 💼 Professional Experience
-**Software Developer**  
-*Internet & Idee – Cosenza, Italy*
-
-I work on real-world software projects, contributing to development, system integration, and production-ready solutions.
+I actively use GitHub to experiment, learn, and share code, working on projects that range from **JavaScript-based applications** to **C++ software**, always aiming to improve code quality and technical robustness.
 
 ---
 
@@ -32,14 +23,6 @@ I work on real-world software projects, contributing to development, system inte
 - **Web:** HTML, CSS, REST APIs
 - **Backend & Tools:** Node.js, Git, Linux
 - **Interests:** Cyber Security, Cloud Computing, IoT, Software Architecture
-
----
-
-## 🚀 What I'm Looking For
-- Software Development opportunities
-- Open Source collaborations
-- Freelance or full-time roles
-- Projects focused on **code quality, security, and scalability**
 
 ---
 
