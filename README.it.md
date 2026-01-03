@@ -29,4 +29,4 @@ Utilizzo GitHub come spazio di crescita tecnica e sperimentazione, lavorando su 
 ## 🌍 Contatti
 - 🌐 Sito: https://www.cristianporco.it/
 - 💼 LinkedIn: https://www.linkedin.com/in/cristian-porco/
-- 🐙 GitHub: https://github.com/Cristian-Porco
+- 🐙 GitHub: https://github.com/bonciarello
